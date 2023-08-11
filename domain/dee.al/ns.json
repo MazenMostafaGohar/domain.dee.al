@@ -1,5 +1,10 @@
 [
 {
+"koneksi": "NS",
+"hostku": "yummeg"
+"target": "https://yummeg.onrender.com"
+},
+{
   "koneksi": "NS", 
   "hostku": "@", 
   "target": "ns1.firdausiregar.my.id" 
